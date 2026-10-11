@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# After publishing, replace YOUR-SITE-URL with your real website link:
+# Sitemap: https://YOUR-SITE-URL/sitemap.xml
